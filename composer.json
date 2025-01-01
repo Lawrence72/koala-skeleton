@@ -1,0 +1,22 @@
+{
+	"name": "lawrence72/koala-skeleton",
+	"description": "Skeleton project for Koala framework",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Lawrence Cooke",
+			"email": "dev@koalacreek.net"
+		}
+	],
+	"minimum-stability": "stable",
+	"autoload": {
+		"psr-4": {
+			"App\\": "App/"
+		}
+	},
+	"require": {
+		"php": ">=8.0",
+		"lawrence72/koala-framework": "^1.0"
+	}
+}

@@ -1,0 +1,7 @@
+
+.DS_Store
+.vagrant/
+Vagrantfile
+vendor/
+config.php
+composer.lock
